@@ -1,5 +1,5 @@
 # GoodReads
-## Exploratory data analysis of Goodreads Data
+## Exploratory Data Analysis of Goodreads Data
 
 ### Overview
 Aim of this EDA is to evaluate multiple variables and get answers of following questions :
